@@ -2,6 +2,8 @@
 
 Template moderno e responsivo para páginas de lançamento de produtos, otimizado para conversão e com design atraente.
 
+![51a196116361423 647008acd1ad5](https://github.com/user-attachments/assets/ba5c0d0f-b32e-4b3f-ab11-360414246918)
+
 ## Características
 
 - Design moderno e minimalista
